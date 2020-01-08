@@ -7,5 +7,11 @@ Spencer LeJeune
 
 # Future Features
 -Ability to change background color
+
 -Ability to add a picture for the background and change its transparency
+
 -Instead of a notepad have a list of items
+
+-See the current weather in your desired location
+
+-Different textured backgrounds
