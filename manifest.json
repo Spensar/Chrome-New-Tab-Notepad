@@ -1,0 +1,10 @@
+{
+    "name": "New Tab Notepad",
+    "version": "1.0",
+    "description": "A simplistic notepad that opens up every time you open your web browser.",
+    "permissions": ["storage"],
+    "manifest_version": 2,
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+      }
+}
