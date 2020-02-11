@@ -50,8 +50,10 @@ function load(){
 document.getElementById("textBox").addEventListener("input", save);
 
 function save(){
+    //Gets value in the textBox
     var test = document.getElementById("textBox").value ;
+    //Sets local storage to what is in the textbox
     localStorage.setItem("TB", test);
-    document.getElementById("textBox").innerHTML = localStorage.getItem("TB");
+
     //console.log(test);
 }

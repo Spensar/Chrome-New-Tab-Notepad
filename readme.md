@@ -15,3 +15,6 @@ Spencer LeJeune
 -See the current weather in your desired location
 
 -Different textured backgrounds
+
+## Updates
+- Fixed issue with mouse cursor jumping to the beginning of the text box
