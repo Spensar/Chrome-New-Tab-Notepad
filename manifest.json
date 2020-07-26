@@ -1,6 +1,6 @@
 {
     "name": "New Tab Notepad",
-    "version": "1.0",
+    "version": "1.01",
     "description": "A simplistic notepad that opens up every time you open your web browser.",
     "permissions": ["storage"],
     "manifest_version": 2,
